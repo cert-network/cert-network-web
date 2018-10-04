@@ -10,7 +10,7 @@ The cert-network admin dashboard created with CRA & hosted on Firebase hosting d
 
 ## Deployment
 
-- npm deploy (This command will deploy to firebase, you must to setup firebase first.)
+- npm run deploy (This command will deploy to firebase, you must to setup firebase first.)
 
 ## License
 
